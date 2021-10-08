@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Deneme_screen</string>
+    <string name="login">Login</string>
+    <string name="new_here_register">New Here? Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="email">Email</string>
+</resources>
